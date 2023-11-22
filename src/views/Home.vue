@@ -9,7 +9,7 @@
 
 <script setup>
 import { onMounted, ref } from "vue";
-import Meals from "../components/meals.vue";
+import Meals from "../components/Meals.vue";
 import axiosClient from "../axiosClient.js";
 
 const meals = ref([]);
