@@ -1,6 +1,3 @@
-# Libraries Used
-- primeicons: 6.0.1
-
 # Recipe Browser
 Connected to TheMealDB API to get data, made with Vue.js, Vue Router and Vuex
 
@@ -9,6 +6,10 @@ You can:
 - See original recipe link or youtube tutorial
 - Shows instructions, ingredients and measures
 - Dark mode compatible
+
+----
+# Libraries Used
+- primeicons: 6.0.1
 
 ----
 # Buscador de recetas
