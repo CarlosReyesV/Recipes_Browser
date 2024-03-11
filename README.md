@@ -1,5 +1,5 @@
 # Recipe Browser
-Connected to TheMealDB API to get data, made with Vue.js, Vue Router and Vuex
+Connected to TheMealDB API to get data
 
 You can:
 - Search meals by name, by letter or by ingredient
@@ -7,13 +7,8 @@ You can:
 - Shows instructions, ingredients and measures
 - Dark mode compatible
 
-----
-# Libraries Used
-- primeicons: 6.0.1
-
-----
 # Buscador de recetas
-Conectado a la API de TheMealDB para obtener los datos, realizado con Vue.js, Vue Router y Vuex
+Conectado a la API de TheMealDB para obtener los datos
 
 Puedes:
 - Buscar platillos por nombre, por letra o por ingrediente
@@ -21,6 +16,13 @@ Puedes:
 - Muestra instrucciones, ingredientes y medidas.
 - Compatible con modo oscuro
 
+----
+
+# Libraries Used
+- primeicons: 6.0.1
+
+# Librerias Utilizadas
+- primeicons: 6.0.1
 
 ----
 
