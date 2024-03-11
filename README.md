@@ -1,3 +1,6 @@
+# Libraries Used
+- primeicons: 6.0.1
+
 # Recipe Browser
 Connected to TheMealDB API to get data, made with Vue.js, Vue Router and Vuex
 
